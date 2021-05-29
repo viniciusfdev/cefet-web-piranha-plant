@@ -1,0 +1,39 @@
+q,
+blockquote {
+  font-style: italic;
+  text-align: justify;
+}
+
+p {
+  text-align: justify;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin: 0 10% 0 10%;
+}
+
+.curiosity {
+  border: 3px solid limegreen;
+  padding: 10px;
+  background-image: url("../imagens/fundo.png");
+}
+
+.img-frame {
+  border: 8px solid limegreen;
+}
+
+.first-title,
+.second-title {
+  font-family: "Times New Roman", Times, serif;
+  color: limegreen;
+}
+
+.first-title {
+  font-size: 28px;
+}
+
+.second-title {
+  font-size: 22px;
+}
