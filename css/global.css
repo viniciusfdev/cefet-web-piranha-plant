@@ -1,0 +1,29 @@
+q,
+blockquote {
+  font-style: italic;
+  text-align: justify;
+}
+
+p {
+  text-align: justify;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin: 0 10% 0 10%;
+}
+
+.first-title,
+.second-title {
+  font-family: "Times New Roman", Times, serif;
+  color: limegreen;
+}
+
+.first-title {
+  font-size: 28px;
+}
+
+.second-title {
+  font-size: 22px;
+}

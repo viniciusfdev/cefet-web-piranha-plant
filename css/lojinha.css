@@ -1,0 +1,23 @@
+#seeds-table {
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+#seeds-table th {
+  color: whitesmoke;
+  background-color: gray;
+}
+
+#seeds-table td,
+#seeds-table th,
+#seeds-table tr {
+  border: 1px solid black;
+}
+
+#lojinha-body {
+  background-image: url("../imagens/desenho-loucao.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
